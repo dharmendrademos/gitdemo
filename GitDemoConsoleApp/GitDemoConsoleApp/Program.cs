@@ -15,6 +15,7 @@ namespace GitDemoConsoleApp
 
         private static void HelloGit()
         {
+
             Console.WriteLine("Hello Git!");
         }
     }
