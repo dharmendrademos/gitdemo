@@ -1,0 +1,6 @@
+F:\Git\Demos\GitDemoConsoleApp\GitDemoConsoleApp\bin\Debug\GitDemoConsoleApp.exe.config
+F:\Git\Demos\GitDemoConsoleApp\GitDemoConsoleApp\bin\Debug\GitDemoConsoleApp.exe
+F:\Git\Demos\GitDemoConsoleApp\GitDemoConsoleApp\bin\Debug\GitDemoConsoleApp.pdb
+F:\Git\Demos\GitDemoConsoleApp\GitDemoConsoleApp\obj\Debug\GitDemoConsoleApp.csprojResolveAssemblyReference.cache
+F:\Git\Demos\GitDemoConsoleApp\GitDemoConsoleApp\obj\Debug\GitDemoConsoleApp.exe
+F:\Git\Demos\GitDemoConsoleApp\GitDemoConsoleApp\obj\Debug\GitDemoConsoleApp.pdb
